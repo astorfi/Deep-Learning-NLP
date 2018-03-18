@@ -325,6 +325,34 @@ Text classification
   `Summary 1 <https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/>`_,
   `Summary 2 <https://medium.com/@sharaf/a-paper-a-day-25-hierarchical-attention-networks-for-document-classification-dd76ba88f176>`_]
 
+  .. image:: _img/mainpage/progress-overall-80.png
+
+  .. @inproceedings{yang2016hierarchical,
+  ..   title={Hierarchical attention networks for document classification},
+  ..   author={Yang, Zichao and Yang, Diyi and Dyer, Chris and He, Xiaodong and Smola, Alex and Hovy, Eduard},
+  ..   booktitle={Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  ..   pages={1480--1489},
+  ..   year={2016}
+  .. }
+
+.. ################################################################################
+
+
+.. ################################################################################
+
+
+* **Hierarchical attention networks for document classification** :
+  Hierarchical
+  Attention Network (HAN) has been presented and utilized to
+  capture the hierarchical structure of the text by two word-
+  level and sentence-level attention mechanism.
+  [`Paper link <http://www.aclweb.org/anthology/N16-1174>`_ ,
+  `Code implementation 1 <https://github.com/richliao/textClassifier>`_ ,
+  `Code implementation 2 <https://github.com/ematvey/hierarchical-attention-networks>`_ ,
+  `Code implementation 3 <https://github.com/EdGENetworks/attention-networks-for-classification>`_,
+  `Summary 1 <https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/>`_,
+  `Summary 2 <https://medium.com/@sharaf/a-paper-a-day-25-hierarchical-attention-networks-for-document-classification-dd76ba88f176>`_]
+
 
   .. @inproceedings{yang2016hierarchical,
   ..   title={Hierarchical attention networks for document classification},
