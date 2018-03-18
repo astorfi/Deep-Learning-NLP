@@ -81,7 +81,10 @@ One-hot representation
 .. For continuous lines, the lines must be start from the same locations.
 * **Character-level convolutional networks for text classification** :
   Promising results by the use of one-hot encoding possibly due to their character-level information.
-  [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
+  [`Paper link <http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica>`_ ,
+  `Torch implementation <https://github.com/zhangxiangxiao/Crepe>`_ ,
+  `TensorFlow implementation <https://github.com/mhjabreel/CharCNN>`_ ,
+  `Pytorch implementation <https://github.com/srviest/char-cnn-pytorch>`_]
 
 .. @inproceedings{zhang2015character,
 ..   title={Character-level convolutional networks for text classification},
