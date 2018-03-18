@@ -93,9 +93,9 @@ One-hot representation
 
 .. ################################################################################
 
-* **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** : Exploiting the 1D structure (namely, word order) of text data for prediction. [`paper link`_ , `Code implementation`_ ]
+* **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** : Exploiting the 1D structure (namely, word order) of text data for prediction. [`Paper link`_ , `Code implementation`_ ]
 
-.. _paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
 .. _Code implementation: https://github.com/riejohnson/ConText
 
 
