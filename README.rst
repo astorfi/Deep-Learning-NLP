@@ -12,14 +12,6 @@ Deep Learning for Natural Language Processing
     :target: https://github.com/astorfi/Deep-Learning-NLP/blob/master/LICENSE
 
 
-    .. Chapter 1 Title
-    .. ===============
-    ..
-    .. Section 1.1 Title
-    .. -----------------
-    ..
-    .. Subsection 1.1.1 Title
-    .. ~~~~~~~~~~~~~~~~~~~~~~
 
 *****************
 Table of Contents
@@ -77,7 +69,7 @@ Data Representation
 
 One-hot representation
 -----------------------
-1. `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding
+* `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding
 possibly due to their character-level information.[`paper link`_,`Torch implementation`_,`TensorFlow implementation`_]
 
 
