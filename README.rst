@@ -143,7 +143,6 @@ Text classification
   `Code implementation 1 <https://github.com/yoonkim/CNN_sentence>`_,
   `Code implementation 2 <https://github.com/abhaikollara/CNN-Sentence-Classification>`_,
   `Code implementation 3 <https://github.com/Shawn1993/cnn-text-classification-pytorch>`_,
-  `Code implementation 4 <https://github.com/mangate/ConvNetSent>`_,
   `Code implementation 4 <https://github.com/mangate/ConvNetSent>`_]
 
   .. @article{kim2014convolutional,
@@ -154,6 +153,31 @@ Text classification
   .. }
 
 .. ################################################################################
+
+
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **A Convolutional Neural Network for Modelling Sentences** :
+  Dynamic Convolutional Neural Network (DCNN) architecture, which technically is the CNN with a dynamic
+  k-max pooling method, has been proposed for capturing the semantic modeling of the sentences.
+  [`Paper link <https://arxiv.org/abs/1404.2188>`_ ,
+  `Code implementation <https://github.com/FredericGodin/DynamicCNN>`_]
+
+  .. @article{kalchbrenner2014convolutional,
+  ..   title={A convolutional neural network for modelling sentences},
+  ..   author={Kalchbrenner, Nal and Grefenstette, Edward and Blunsom, Phil},
+  ..   journal={arXiv preprint arXiv:1404.2188},
+  ..   year={2014}
+  .. }
+
+.. ################################################################################
+
+
+
+
+
+
 
 
 ============
