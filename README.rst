@@ -6,7 +6,10 @@ Deep Learning for Natural Language Processing
     :target: https://github.com/astorfi/Deep-Learning-NLP/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
     :target: https://github.com/ellerbrock/open-source-badge/
-
+.. image:: https://github.com/astorfi/Deep-Learning-NLP/graphs/contributors
+    :target: https://github.com/astorfi/Deep-Learning-NLP/graphs/contributors
+.. image:: https://img.shields.io/dub/l/vibe-d.svg
+    :target: https://github.com/astorfi/Deep-Learning-NLP/blob/master/LICENSE
 
 #################
 Table of Contents
