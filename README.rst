@@ -144,6 +144,9 @@ Text classification
   `Code implementation 2 <https://github.com/abhaikollara/CNN-Sentence-Classification>`_,
   `Code implementation 3 <https://github.com/Shawn1993/cnn-text-classification-pytorch>`_,
   `Code implementation 4 <https://github.com/mangate/ConvNetSent>`_]
+  
+  .. image:: _img/mainpage/progress-overall-100.png
+
 
   .. @article{kim2014convolutional,
   ..   title={Convolutional neural networks for sentence classification},
@@ -163,6 +166,8 @@ Text classification
   k-max pooling method, has been proposed for capturing the semantic modeling of the sentences.
   [`Paper link <https://arxiv.org/abs/1404.2188>`_ ,
   `Code implementation <https://github.com/FredericGodin/DynamicCNN>`_]
+
+  .. image:: _img/mainpage/progress-overall-40.png
 
   .. @article{kalchbrenner2014convolutional,
   ..   title={A convolutional neural network for modelling sentences},
