@@ -111,7 +111,8 @@ One-hot representation
 
 .. ################################################################################
 
-* **Neural Responding Machine for Short-Text Conversation** : Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text.
+* **Neural Responding Machine for Short-Text Conversation** :
+  Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text.
   [ `Paper link`_ , `Paper summary`_ ]
 
 .. _Paper link: https://arxiv.org/abs/1503.02364
