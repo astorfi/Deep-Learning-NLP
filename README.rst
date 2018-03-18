@@ -203,6 +203,29 @@ Text classification
 .. ################################################################################
 
 
+.. ################################################################################
+
+* **Character-level convolutional networks for text classification** :
+  The character-level
+  representation using CNNs investigated which argues
+  the power of CNNs as well as character-level representation for
+  language-agnostic text classification.
+  [`Paper link <http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica>`_ ,
+  `Torch implementation <https://github.com/zhangxiangxiao/Crepe>`_ ,
+  `TensorFlow implementation <https://github.com/mhjabreel/CharCNN>`_ ,
+  `Pytorch implementation <https://github.com/srviest/char-cnn-pytorch>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+  .. @inproceedings{zhang2015character,
+  ..   title={Character-level convolutional networks for text classification},
+  ..   author={Zhang, Xiang and Zhao, Junbo and LeCun, Yann},
+  ..   booktitle={Advances in neural information processing systems},
+  ..   pages={649--657},
+  ..   year={2015}
+  .. }
+
+.. ################################################################################
 
 
 
