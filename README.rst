@@ -98,7 +98,7 @@ One-hot representation
 * **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** :
   Exploiting the 1D structure (namely, word order) of text data for prediction.
   [`Paper link <https://arxiv.org/abs/1412.1058>`_ ,
-  `Code implementation https://github.com/riejohnson/ConText`_]
+  `Code implementation <https://github.com/riejohnson/ConText>`_]
 
 .. @article{johnson2014effective,
 ..   title={Effective use of word order for text categorization with convolutional neural networks},
@@ -115,7 +115,7 @@ One-hot representation
 * **Neural Responding Machine for Short-Text Conversation** :
   Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text.
   [`Paper link <https://arxiv.org/abs/1503.02364>`_ ,
-  `Paper summary https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/`_]
+  `Paper summary <https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/>`_]
 
 .. Please add bibtex here
 .. @article{shang2015neural,
