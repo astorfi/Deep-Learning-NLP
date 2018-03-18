@@ -258,11 +258,56 @@ Text classification
 
   .. image:: _img/mainpage/progress-overall-60.png
 
-  .. @article{yin2016multichannel,
-  ..   title={Multichannel variable-size convolution for sentence classification},
-  ..   author={Yin, Wenpeng and Sch{\"u}tze, Hinrich},
-  ..   journal={arXiv preprint arXiv:1603.04513},
-  ..   year={2016}
+  .. @article{zhang2015sensitivity,
+  ..   title={A sensitivity analysis of (and practitioners' guide to) convolutional neural networks for sentence classification},
+  ..   author={Zhang, Ye and Wallace, Byron},
+  ..   journal={arXiv preprint arXiv:1510.03820},
+  ..   year={2015}
+  .. }
+
+.. ################################################################################
+
+
+* **Generative and Discriminative Text Classification with Recurrent Neural Networks** :
+  RNN-based discriminative and generative models have been investigated for
+  text classification and their robustness to the data distribution shifts has been
+  claimed as well.
+  [`Paper link <https://arxiv.org/abs/1703.01898>`_]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+  .. @article{yogatama2017generative,
+  ..   title={Generative and discriminative text classification with recurrent neural networks},
+  ..   author={Yogatama, Dani and Dyer, Chris and Ling, Wang and Blunsom, Phil},
+  ..   journal={arXiv preprint arXiv:1703.01898},
+  ..   year={2017}
+  .. }
+
+.. ################################################################################
+
+
+.. ################################################################################
+
+
+* **Deep sentence embedding using long short-term memory networks: Analysis and application to information retrieval** :
+  An LSTM-RNN architecture has been utilized
+  for sentence embedding with special superiority in
+  a defined web search task.
+  [`Paper link <https://dl.acm.org/citation.cfm?id=2992457>`_]
+
+    .. image:: _img/mainpage/progress-overall-60.png
+
+  .. .. image:: _img/mainpage/progress-overall-20.png
+  ..
+  .. @article{palangi2016deep,
+  ..   title={Deep sentence embedding using long short-term memory networks: Analysis and application to information retrieval},
+  ..   author={Palangi, Hamid and Deng, Li and Shen, Yelong and Gao, Jianfeng and He, Xiaodong and Chen, Jianshu and Song, Xinying and Ward, Rabab},
+  ..   journal={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
+  ..   volume={24},
+  ..   number={4},
+  ..   pages={694--707},
+  ..   year={2016},
+  ..   publisher={IEEE Press}
   .. }
 
 .. ################################################################################
