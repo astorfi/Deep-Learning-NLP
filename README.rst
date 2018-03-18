@@ -341,25 +341,41 @@ Text classification
 .. ################################################################################
 
 
-* **Hierarchical attention networks for document classification** :
-  Hierarchical
-  Attention Network (HAN) has been presented and utilized to
-  capture the hierarchical structure of the text by two word-
-  level and sentence-level attention mechanism.
-  [`Paper link <http://www.aclweb.org/anthology/N16-1174>`_ ,
-  `Code implementation 1 <https://github.com/richliao/textClassifier>`_ ,
-  `Code implementation 2 <https://github.com/ematvey/hierarchical-attention-networks>`_ ,
-  `Code implementation 3 <https://github.com/EdGENetworks/attention-networks-for-classification>`_,
-  `Summary 1 <https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/>`_,
-  `Summary 2 <https://medium.com/@sharaf/a-paper-a-day-25-hierarchical-attention-networks-for-document-classification-dd76ba88f176>`_]
+* **Recurrent Convolutional Neural Networks for Text Classification** :
+  The combination of both RNNs and CNNs is used for text classification which technically
+  is a recurrent architecture in addition to max-pooling with
+  an effective word representation method and demonstrates
+  superiority compared to simple windows-based neural network
+  approaches.
+  [`Paper link <http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552>`_ ,
+  `Code implementation 1 <https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier>`_ ,
+  `Code implementation 2 <https://github.com/knok/rcnn-text-classification>`_ ,
+  `Summary<https://medium.com/paper-club/recurrent-convolutional-neural-networks-for-text-classification-107020765e52>`_]
 
+  .. image:: _img/mainpage/progress-overall-60.png
 
-  .. @inproceedings{yang2016hierarchical,
-  ..   title={Hierarchical attention networks for document classification},
-  ..   author={Yang, Zichao and Yang, Diyi and Dyer, Chris and He, Xiaodong and Smola, Alex and Hovy, Eduard},
-  ..   booktitle={Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
-  ..   pages={1480--1489},
-  ..   year={2016}
+  .. @inproceedings{lai2015recurrent,
+  ..   title={Recurrent Convolutional Neural Networks for Text Classification.},
+  ..   author={Lai, Siwei and Xu, Liheng and Liu, Kang and Zhao, Jun},
+  ..   booktitle={AAAI},
+  ..   volume={333},
+  ..   pages={2267--2273},
+  ..   year={2015}
+  .. }
+
+.. ################################################################################
+
+* **A C-LSTM Neural Network for Text Classification** :
+  A unified architecture proposed for sentence and document modeling for classification.
+  [`Paper link <https://arxiv.org/abs/1511.08630>`_ ]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+  .. @article{zhou2015c,
+  ..   title={A C-LSTM neural network for text classification},
+  ..   author={Zhou, Chunting and Sun, Chonglin and Liu, Zhiyuan and Lau, Francis},
+  ..   journal={arXiv preprint arXiv:1511.08630},
+  ..   year={2015}
   .. }
 
 .. ################################################################################
