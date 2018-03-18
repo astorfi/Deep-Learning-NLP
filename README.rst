@@ -73,7 +73,7 @@ One-hot representation
 
 .. ################################################################################
 
-* `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding possibly due to their character-level information. [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
+* **Character-level convolutional networks for text classification** : Promising results by the use of one-hot encoding possibly due to their character-level information. [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
 
 
 .. _Character-level convolutional networks for text classification: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
@@ -95,7 +95,7 @@ One-hot representation
 
 .. ################################################################################
 
-* `Effective Use of Word Order for Text Categorization with Convolutional Neural Networks`_: Exploiting the 1D structure (namely, word order) of text data for prediction. [`Paper link`_ , `Code implementation`_ ]
+* **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** : Exploiting the 1D structure (namely, word order) of text data for prediction. [`Paper link`_ , `Code implementation`_ ]
 
 
 .. _Effective Use of Word Order for Text Categorization with Convolutional Neural Networks: https://arxiv.org/abs/1412.1058
@@ -113,6 +113,24 @@ One-hot representation
 .. ################################################################################
 
 
+.. ################################################################################
+
+* **Neural Responding Machine for Short-Text Conversation** : Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text. [`Paper link`_ , `Paper summary`_ ]
+
+
+.. _Neural Responding Machine for Short-Text Conversation: https://arxiv.org/abs/1503.02364
+.. _paper link: https://arxiv.org/abs/1503.02364
+.. _Paper summary: https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/
+
+.. Please add bibtex here
+.. @article{shang2015neural,
+..   title={Neural responding machine for short-text conversation},
+..   author={Shang, Lifeng and Lu, Zhengdong and Li, Hang},
+..   journal={arXiv preprint arXiv:1503.02364},
+..   year={2015}
+.. }
+
+.. ################################################################################
 
 
 
