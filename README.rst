@@ -127,7 +127,33 @@ One-hot representation
 
 .. ################################################################################
 
+-----------------------
+Applications
+-----------------------
 
+~~~~~~~~~~~~~~~~~~~~~~
+Text classification
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Convolutional Neural Networks for Sentence Classification** :
+  By training the model on top of the pretrained word-vectors through finetuning, considerable improvement has been reported for learning task-specific vectors.
+  [`Paper link <https://arxiv.org/abs/1408.5882>`_ ,
+  `Code implementation 1 <https://github.com/yoonkim/CNN_sentence>`_,
+  `Code implementation 2 <https://github.com/abhaikollara/CNN-Sentence-Classification>`_,
+  `Code implementation 3 <https://github.com/Shawn1993/cnn-text-classification-pytorch>`_,
+  `Code implementation 4 <https://github.com/mangate/ConvNetSent>`_,
+  `Code implementation 4 <https://github.com/mangate/ConvNetSent>`_]
+
+  .. @article{kim2014convolutional,
+  ..   title={Convolutional neural networks for sentence classification},
+  ..   author={Kim, Yoon},
+  ..   journal={arXiv preprint arXiv:1408.5882},
+  ..   year={2014}
+  .. }
+
+.. ################################################################################
 
 
 ============
