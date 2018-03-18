@@ -73,7 +73,10 @@ One-hot representation
 
 .. ################################################################################
 
-* **Character-level convolutional networks for text classification** : Promising results by the use of one-hot encoding possibly due to their character-level information. [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
+.. For continuous lines, the lines must be start from the same locations.
+* **Character-level convolutional networks for text classification** :
+  Promising results by the use of one-hot encoding possibly due to their character-level information.
+  [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
 
 .. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
 .. _Torch implementation: https://github.com/zhangxiangxiao/Crepe
@@ -93,7 +96,10 @@ One-hot representation
 
 .. ################################################################################
 
-* **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** : Exploiting the 1D structure (namely, word order) of text data for prediction. [`Paper link`_ , `Code implementation`_ ]
+.. For continuous lines, the lines must be start from the same locations.
+* **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** :
+  Exploiting the 1D structure (namely, word order) of text data for prediction.
+  [`Paper link`_ , `Code implementation`_ ]
 
 .. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
 .. _Code implementation: https://github.com/riejohnson/ConText
@@ -111,6 +117,7 @@ One-hot representation
 
 .. ################################################################################
 
+.. For continuous lines, the lines must be start from the same locations.
 * **Neural Responding Machine for Short-Text Conversation** :
   Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text.
   [ `Paper link`_ , `Paper summary`_ ]
