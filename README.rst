@@ -144,7 +144,7 @@ Text classification
   `Code implementation 2 <https://github.com/abhaikollara/CNN-Sentence-Classification>`_,
   `Code implementation 3 <https://github.com/Shawn1993/cnn-text-classification-pytorch>`_,
   `Code implementation 4 <https://github.com/mangate/ConvNetSent>`_]
-  
+
   .. image:: _img/mainpage/progress-overall-100.png
 
 
@@ -167,7 +167,7 @@ Text classification
   [`Paper link <https://arxiv.org/abs/1404.2188>`_ ,
   `Code implementation <https://github.com/FredericGodin/DynamicCNN>`_]
 
-  .. image:: _img/mainpage/progress-overall-40.png
+  .. image:: _img/mainpage/progress-overall-80.png
 
   .. @article{kalchbrenner2014convolutional,
   ..   title={A convolutional neural network for modelling sentences},
@@ -179,6 +179,28 @@ Text classification
 .. ################################################################################
 
 
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Very Deep Convolutional Networks for Text Classification** :
+  The Very Deep Convolutional Neural
+  Networks (VDCNNs) has been presented and employed at
+  character-level with the demonstration of the effectiveness of
+  the network depth on classification tasks
+  [`Paper link <http://www.aclweb.org/anthology/E17-1104>`_ ]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+  .. @inproceedings{conneau2017very,
+  ..   title={Very deep convolutional networks for text classification},
+  ..   author={Conneau, Alexis and Schwenk, Holger and Barrault, Lo{\"\i}c and Lecun, Yann},
+  ..   booktitle={Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers},
+  ..   volume={1},
+  ..   pages={1107--1116},
+  ..   year={2017}
+  .. }
+
+.. ################################################################################
 
 
 
