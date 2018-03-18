@@ -75,7 +75,7 @@ One-hot representation
 
 * **Character-level convolutional networks for text classification** : Promising results by the use of one-hot encoding possibly due to their character-level information. [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
 
-.. _paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
 .. _Torch implementation: https://github.com/zhangxiangxiao/Crepe
 .. _TensorFlow implementation: https://github.com/mhjabreel/CharCNN
 .. _Pytorch implementation: https://github.com/srviest/char-cnn-pytorch
@@ -95,7 +95,7 @@ One-hot representation
 
 * **Effective Use of Word Order for Text Categorization with Convolutional Neural Networks** : Exploiting the 1D structure (namely, word order) of text data for prediction. [`Paper link`_ , `Code implementation`_ ]
 
-.. _paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
 .. _Code implementation: https://github.com/riejohnson/ConText
 
 
@@ -113,7 +113,7 @@ One-hot representation
 
 * **Neural Responding Machine for Short-Text Conversation** : Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text. [`Paper link`_ , `Paper summary`_ ]
 
-.. _paper link: https://arxiv.org/abs/1503.02364
+.. _Paper link: https://arxiv.org/abs/1503.02364
 .. _Paper summary: https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/
 
 .. Please add bibtex here
