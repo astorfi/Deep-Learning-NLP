@@ -527,7 +527,7 @@ Text classification
   [`Paper link <http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552>`_ ,
   `Code implementation 1 <https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier>`_ ,
   `Code implementation 2 <https://github.com/knok/rcnn-text-classification>`_ ,
-  `Summary<https://medium.com/paper-club/recurrent-convolutional-neural-networks-for-text-classification-107020765e52>`_]
+  `Summary <https://medium.com/paper-club/recurrent-convolutional-neural-networks-for-text-classification-107020765e52>`_]
 
   .. image:: _img/mainpage/progress-overall-60.png
 
