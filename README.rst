@@ -1,7 +1,7 @@
 
-*************************************************
-Deep Learning for Natural Language Processing 
-*************************************************
+###################################################
+Deep Learning for Natural Language Processing
+###################################################
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
     :target: https://github.com/astorfi/Deep-Learning-NLP/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
@@ -11,9 +11,19 @@ Deep Learning for Natural Language Processing
 .. image:: https://img.shields.io/dub/l/vibe-d.svg
     :target: https://github.com/astorfi/Deep-Learning-NLP/blob/master/LICENSE
 
-#################
+
+    .. Chapter 1 Title
+    .. ===============
+    ..
+    .. Section 1.1 Title
+    .. -----------------
+    ..
+    .. Subsection 1.1.1 Title
+    .. ~~~~~~~~~~~~~~~~~~~~~~
+
+*****************
 Table of Contents
-#################
+*****************
 .. contents::
   :local:
   :depth: 3
@@ -54,6 +64,40 @@ been provided.
 ------------------------------------
 How to make the most of this effort
 ------------------------------------
+
+*******
+Papers
+*******
+
+This chapter is associated with the papers published in NLP using deep learning.
+
+Data Representation
+=========================
+
+One-hot representation
+-------------------
+1. `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding
+possibly due to their character-level information.[`paper link`_,`Torch implementation`_,`TensorFlow implementation`_]
+
+
+.. _Character-level convolutional networks for text classification: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. _paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. _Torch implementation: https://github.com/zhangxiangxiao/Crepe
+.. _TensorFlow implementation: https://github.com/mhjabreel/CharCNN
+.. _Pytorch implementation: https://github.com/srviest/char-cnn-pytorch
+
+.. @inproceedings{zhang2015character,
+..   title={Character-level convolutional networks for text classification},
+..   author={Zhang, Xiang and Zhao, Junbo and LeCun, Yann},
+..   booktitle={Advances in neural information processing systems},
+..   pages={649--657},
+..   year={2015}
+.. }
+
+
+
+
+
 
 
 
