@@ -170,7 +170,7 @@ Word-Level Embedding
 * **Efficient Estimation of Word Representations in Vector Space** :
   Two novel model architectures for computing continuous vector representations of words.
   [`Paper link <https://arxiv.org/abs/1301.3781>`_ ,
-  `Code implementation <https://code.google.com/archive/p/word2vec/>`_]
+  `Official code implementation <https://code.google.com/archive/p/word2vec/>`_]
 
   .. image:: _img/mainpage/progress-overall-100.png
 
@@ -179,6 +179,27 @@ Word-Level Embedding
   ..   author={Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
   ..   journal={arXiv preprint arXiv:1301.3781},
   ..   year={2013}
+  .. }
+
+.. ################################################################################
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **GloVe: Global Vectors for Word Representation** :
+  Combines the advantages of the two major models of global matrix
+  factorization and local context window methods and efficiently leverages
+  the statistical information of the content.
+  [`Paper link <http://www.aclweb.org/anthology/D14-1162>`_ ,
+  `Official code implementation <https://github.com/stanfordnlp/GloVe>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+  .. @inproceedings{pennington2014glove,
+  ..   title={Glove: Global vectors for word representation},
+  ..   author={Pennington, Jeffrey and Socher, Richard and Manning, Christopher},
+  ..   booktitle={Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)},
+  ..   pages={1532--1543},
+  ..   year={2014}
   .. }
 
 .. ################################################################################
