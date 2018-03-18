@@ -72,7 +72,7 @@ One-hot representation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. ################################################################################
-
+.. Links must be placed before referal
 .. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
 .. _Torch implementation: https://github.com/zhangxiangxiao/Crepe
 .. _TensorFlow implementation: https://github.com/mhjabreel/CharCNN
@@ -95,8 +95,8 @@ One-hot representation
 
 
 .. ################################################################################
-
-.. _Paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. Links must be placed before referal
+.. _Paper link: https://arxiv.org/abs/1412.1058
 .. _Code implementation: https://github.com/riejohnson/ConText
 
 .. For continuous lines, the lines must be start from the same locations.
@@ -115,10 +115,9 @@ One-hot representation
 
 
 .. ################################################################################
-
+.. Links must be placed before referal
 .. _Paper link: https://arxiv.org/abs/1503.02364
 .. _Paper summary: https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/
-
 
 .. For continuous lines, the lines must be start from the same locations.
 * **Neural Responding Machine for Short-Text Conversation** :
