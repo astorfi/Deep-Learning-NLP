@@ -57,9 +57,9 @@ been provided.
 How to make the most of this effort
 ------------------------------------
 
-=========================
+=======
 Papers
-=========================
+=======
 
 This chapter is associated with the papers published in NLP using deep learning.
 
