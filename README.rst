@@ -1,6 +1,6 @@
 
 *************************************************
-Deep-Learning-World-Resources - `Project Page`_
+Deep Learning for Natural Language Processing 
 *************************************************
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
     :target: https://github.com/astorfi/Deep-Learning-NLP/pulls
