@@ -18,7 +18,7 @@ Table of Contents
 *****************
 .. contents::
   :local:
-  :depth: 3
+  :depth: 4
 
 ============
 Introduction
