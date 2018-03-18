@@ -81,6 +81,8 @@ One-hot representation
   `TensorFlow implementation <https://github.com/mhjabreel/CharCNN>`_ ,
   `Pytorch implementation <https://github.com/srviest/char-cnn-pytorch>`_]
 
+    .. image:: _img/mainpage/progress-overall-80.png
+
 .. @inproceedings{zhang2015character,
 ..   title={Character-level convolutional networks for text classification},
 ..   author={Zhang, Xiang and Zhao, Junbo and LeCun, Yann},
@@ -100,6 +102,8 @@ One-hot representation
   [`Paper link <https://arxiv.org/abs/1412.1058>`_ ,
   `Code implementation <https://github.com/riejohnson/ConText>`_]
 
+  .. image:: _img/mainpage/progress-overall-60.png
+
 .. @article{johnson2014effective,
 ..   title={Effective use of word order for text categorization with convolutional neural networks},
 ..   author={Johnson, Rie and Zhang, Tong},
@@ -117,6 +121,8 @@ One-hot representation
   [`Paper link <https://arxiv.org/abs/1503.02364>`_ ,
   `Paper summary <https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/>`_]
 
+  .. image:: _img/mainpage/progress-overall-60.png
+
 .. Please add bibtex here
 .. @article{shang2015neural,
 ..   title={Neural responding machine for short-text conversation},
@@ -126,6 +132,57 @@ One-hot representation
 .. }
 
 .. ################################################################################
+
+
+------------------------------
+Continuous Bag of Words (CBOW)
+------------------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Distributed Representations of Words and Phrases and their Compositionality** :
+  Not necessarily about CBOWs but the techniques represented in this paper
+  can be used for training the continuous bag-of-words model.
+  [`Paper link <http://papers.nips.cc/paper/5021-distributed-representations-of-words-andphrases>`_ ,
+  `Code implementation 1 <https://code.google.com/archive/p/word2vec/>`_,
+  `Code implementation 2 <https://github.com/deborausujono/word2vecpy>`_]
+
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+  .. @inproceedings{mikolov2013distributed,
+  ..   title={Distributed representations of words and phrases and their compositionality},
+  ..   author={Mikolov, Tomas and Sutskever, Ilya and Chen, Kai and Corrado, Greg S and Dean, Jeff},
+  ..   booktitle={Advances in neural information processing systems},
+  ..   pages={3111--3119},
+  ..   year={2013}
+  .. }
+
+.. ################################################################################
+
+
+---------------------
+Word-Level Embedding
+---------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Efficient Estimation of Word Representations in Vector Space** :
+  Two novel model architectures for computing continuous vector representations of words.
+  [`Paper link <https://arxiv.org/abs/1301.3781>`_ ,
+  `Code implementation <https://code.google.com/archive/p/word2vec/>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+  .. @article{mikolov2013efficient,
+  ..   title={Efficient estimation of word representations in vector space},
+  ..   author={Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
+  ..   journal={arXiv preprint arXiv:1301.3781},
+  ..   year={2013}
+  .. }
+
+.. ################################################################################
+
 
 ====================
 Applications
