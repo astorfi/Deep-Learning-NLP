@@ -204,6 +204,26 @@ Word-Level Embedding
 
 .. ################################################################################
 
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Skip-Thought Vectors** :
+  Skip-thought model applies word2vec at the sentence-level.
+  [`http://papers.nips.cc/paper/5950-skip-thought-vectors>`_ ,
+  `Code implementation <https://github.com/ryankiros/skip-thoughts>`_,
+  `TensorFlow implementation <https://github.com/tensorflow/models/tree/master/research/skip_thoughts>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+  .. @inproceedings{kiros2015skip,
+  ..   title={Skip-thought vectors},
+  ..   author={Kiros, Ryan and Zhu, Yukun and Salakhutdinov, Ruslan R and Zemel, Richard and Urtasun, Raquel and Torralba, Antonio and Fidler, Sanja},
+  ..   booktitle={Advances in neural information processing systems},
+  ..   pages={3294--3302},
+  ..   year={2015}
+  .. }
+
+.. ################################################################################
+
 -------------------------
 Character-Level Embedding
 -------------------------
