@@ -117,10 +117,13 @@ One-hot representation
 
 .. ################################################################################
 
+.. _Paper link: https://arxiv.org/abs/1503.02364
+.. _Paper summary: https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/
+
 .. For continuous lines, the lines must be start from the same locations.
 * **Neural Responding Machine for Short-Text Conversation** :
   Neural Responding Machine has been proposed to generate content-wise appropriate responses to input text.
-  { `Paper link`_ , `Paper summary`_ }
+  [ `Paper link`_ , `Paper summary`_ ]
 
 .. _Paper link: https://arxiv.org/abs/1503.02364
 .. _Paper summary: https://isaacchanghau.github.io/2017/07/19/Neural-Responding-Machine-for-Short-Text-Conversation/
