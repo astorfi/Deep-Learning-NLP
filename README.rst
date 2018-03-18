@@ -4,7 +4,7 @@ Deep Learning for Natural Language Processing
 *************************************************
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
     :target: https://github.com/astorfi/Deep-Learning-NLP/pulls
-.. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
+.. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
     :target: https://github.com/ellerbrock/open-source-badge/
 
 
