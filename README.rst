@@ -71,9 +71,7 @@ Data Representation
 One-hot representation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--Title  `Character-level convolutional networks for text classification`_:
--Description  Promising results by the use of one-hot encoding possibly due to their character-level information.
--Links  `paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_
+* `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding possibly due to their character-level information. [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
 
 
 .. _Character-level convolutional networks for text classification: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
