@@ -71,6 +71,7 @@ Data Representation
 One-hot representation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+.. ################################################################################
 * `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding possibly due to their character-level information. [`Paper link`_ , `Torch implementation`_ , `TensorFlow implementation`_ , `Pytorch implementation`_]
 
 
@@ -87,8 +88,25 @@ One-hot representation
 ..   pages={649--657},
 ..   year={2015}
 .. }
+.. ################################################################################
 
 
+.. ################################################################################
+* `Effective Use of Word Order for Text Categorization with Convolutional Neural Networks`_: Exploiting the 1D structure (namely, word order) of text data for prediction. [`Paper link`_ , `Code implementation`_ ]
+
+
+.. _Effective Use of Word Order for Text Categorization with Convolutional Neural Networks: https://arxiv.org/abs/1412.1058
+.. _paper link: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica
+.. _Code implementation: https://github.com/riejohnson/ConText
+
+
+.. @article{johnson2014effective,
+..   title={Effective use of word order for text categorization with convolutional neural networks},
+..   author={Johnson, Rie and Zhang, Tong},
+..   journal={arXiv preprint arXiv:1412.1058},
+..   year={2014}
+.. }
+.. ################################################################################
 
 
 
