@@ -13,9 +13,9 @@ Deep Learning for Natural Language Processing
 
 
 
-*****************
+##################
 Table of Contents
-*****************
+##################
 .. contents::
   :local:
   :depth: 4
