@@ -228,7 +228,44 @@ Text classification
 .. ################################################################################
 
 
+.. ################################################################################
 
+* **Multichannel Variable-Size Convolution for Sentence Classification** :
+  Multichannel Variable Size Convolutional Neural Network (MV-CNN) architecture
+  Combines different version of word-embeddings in addition to
+  employing variable-size convolutional filters and is proposed
+  in this paper for sentence classification.
+  [`Paper link <https://arxiv.org/abs/1603.04513>`_]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+  .. @article{yin2016multichannel,
+  ..   title={Multichannel variable-size convolution for sentence classification},
+  ..   author={Yin, Wenpeng and Sch{\"u}tze, Hinrich},
+  ..   journal={arXiv preprint arXiv:1603.04513},
+  ..   year={2016}
+  .. }
+
+.. ################################################################################
+
+
+.. ################################################################################
+
+* **A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification** :
+  A practical sensitivity analysis of CNNs for exploring the effect
+  of architecture on the performance, has been investigated in this paper.
+  [`Paper link <https://arxiv.org/abs/1510.03820>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+  .. @article{yin2016multichannel,
+  ..   title={Multichannel variable-size convolution for sentence classification},
+  ..   author={Yin, Wenpeng and Sch{\"u}tze, Hinrich},
+  ..   journal={arXiv preprint arXiv:1603.04513},
+  ..   year={2016}
+  .. }
+
+.. ################################################################################
 
 ============
 Contributing
