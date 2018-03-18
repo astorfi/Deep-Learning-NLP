@@ -204,6 +204,68 @@ Word-Level Embedding
 
 .. ################################################################################
 
+-------------------------
+Character-Level Embedding
+-------------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Learning Character-level Representations for Part-of-Speech Tagging** :
+  CNNs have successfully been utilized for learning character-level embedding.
+  [`Paper link <http://proceedings.mlr.press/v32/santos14.pdf>`_ ]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+  .. @inproceedings{santos2014learning,
+  ..   title={Learning character-level representations for part-of-speech tagging},
+  ..   author={Santos, Cicero D and Zadrozny, Bianca},
+  ..   booktitle={Proceedings of the 31st International Conference on Machine Learning (ICML-14)},
+  ..   pages={1818--1826},
+  ..   year={2014}
+  .. }
+
+.. ################################################################################
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Deep Convolutional Neural Networks forSentiment Analysis of Short Texts** :
+  A new deep convolutional neural network has been proposed for exploiting
+  the character- to sentence-level information for sentiment analysis application on short texts.
+  [`Paper link <http://www.aclweb.org/anthology/C14-1008>`_ ]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+  .. @inproceedings{dos2014deep,
+  ..   title={Deep convolutional neural networks for sentiment analysis of short texts},
+  ..   author={dos Santos, Cicero and Gatti, Maira},
+  ..   booktitle={Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers},
+  ..   pages={69--78},
+  ..   year={2014}
+  .. }
+
+.. ################################################################################
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation** :
+  The usage of two LSTMs operate over the char-
+  acters for generating the word embedding
+  [`Paper link <https://arxiv.org/abs/1508.02096>`_ ]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+  .. @article{ling2015finding,
+  ..   title={Finding function in form: Compositional character models for open vocabulary word representation},
+  ..   author={Ling, Wang and Lu{\'\i}s, Tiago and Marujo, Lu{\'\i}s and Astudillo, Ram{\'o}n Fernandez and Amir, Silvio and Dyer, Chris and Black, Alan W and Trancoso, Isabel},
+  ..   journal={arXiv preprint arXiv:1508.02096},
+  ..   year={2015}
+  .. }
+
+.. ################################################################################
+
+
+
+
 
 ====================
 Applications
