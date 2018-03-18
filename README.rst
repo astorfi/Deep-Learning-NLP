@@ -2,20 +2,11 @@
 *************************************************
 Deep-Learning-World-Resources - `Project Page`_
 *************************************************
-.. _Project Page: http://tensorflow-world-resources.readthedocs.io/en/latest/
-
-
-
-.. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
-    :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/astorfi/TensorFlow-World-Resources/pulls
+    :target: https://github.com/astorfi/Deep-Learning-NLP/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
     :target: https://github.com/ellerbrock/open-source-badge/
-.. image:: https://coveralls.io/repos/github/astorfi/TensorFlow-World-Resources/badge.svg?branch=master
-    :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
 
-.. image:: _img/mainpage/TensorFlow_World.gif
 
 #################
 Table of Contents
@@ -29,9 +20,7 @@ Introduction
 ============
 
 The purpose of this project is to introduce a shortcut to developers and researcher
-for finding useful resources about TensorFlow.
-
-
+for finding useful resources about Deep Learning for Natural Language Processing.
 
 -----------
 Motivation
@@ -49,8 +38,7 @@ What's the point of this open source project?
 
 There other similar repositories similar to this repository and are very
 comprehensive and useful and to be honest they made me ponder if there is
-a necessity for this repository! A great example is `awesome-tensorflow <https://github.com/jtoy/awesome-tensorflow>`_
-repository which is a curated list of different TensorFlow resources.
+a necessity for this repository!
 
 **The point of this repository is that the resources are being targeted**. The organization
 of the resources is such that the user can easily find the things he/she is looking for.
@@ -65,67 +53,12 @@ How to make the most of this effort
 ------------------------------------
 
 
-============================
-Programming with TensorFlow
-============================
-
-The references here, deal with the details of programming and writing TensorFlow code.
-
---------------------------------
-Reading data and input pipeline
---------------------------------
-
-The first part is always how to prepare data and how to provide the pipeline to feed it to TensorFlow.
-Usually providing the input pipeline can be complicated, even more than the structure design!
-
-* `Dataset API for TensorFlow Input Pipelines`_: A TensorFlow official documentation on *Using the Dataset API for TensorFlow Input Pipelines*
-.. _Dataset API for TensorFlow Input Pipelines: https://github.com/tensorflow/tensorflow/tree/v1.2.0-rc1/tensorflow/contrib/data
-
-----------
-Variables
-----------
-
-Variables are supposed to hold the parameters and supersede by new values as the parameters are updated.
-Variables must be clearly set and initialized.
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~
-Creation, Initialization
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-* `Variables Creation and Initialization`_: An official documentation on setting up variables
-
-.. _Variables Creation and Initialization: https://www.tensorflow.org/programmers_guide/variables
-
-~~~~~~~~~~~~~~~~~~~~~~
-Saving and restoring
-~~~~~~~~~~~~~~~~~~~~~~
-
-* `Saving and Loading Variables`_: The official documentation on saving and restoring variables
-
-.. _save and restore Tensorflow models: http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
-
-~~~~~~~~~~~~~~~~~
-Sharing Variables
-~~~~~~~~~~~~~~~~~
-
-* `Sharing Variables`_: The official documentation on how to share variables
-
-.. _Sharing Variables: https://www.tensorflow.org/programmers_guide/variable_scope
-
-
---------------------
-TensorFlow Utilities
---------------------
-
-Different utilities empower TensorFlow for faster computation in a more monitored manner.
-
 
 ============
 Contributing
 ============
 
-*For typos, please do not create a pull request. Instead, declare them in issues or email the repository owner*. Please note we have a code of conduct, please follow it in all your interactions with the project.
+*For typos, unless significant changes, please do not create a pull request. Instead, declare them in issues or email the repository owner*. Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 --------------------
 Pull Request Process
