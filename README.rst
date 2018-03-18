@@ -283,6 +283,23 @@ Character-Level Embedding
 
 .. ################################################################################
 
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs** :
+  The effectiveness of modeling characters for dependency parsing.
+  [`Paper link <https://arxiv.org/abs/1508.00657>`_ ]
+
+  .. image:: _img/mainpage/progress-overall-40.png
+
+  .. @article{ballesteros2015improved,
+  ..   title={Improved transition-based parsing by modeling characters instead of words with lstms},
+  ..   author={Ballesteros, Miguel and Dyer, Chris and Smith, Noah A},
+  ..   journal={arXiv preprint arXiv:1508.00657},
+  ..   year={2015}
+  .. }
+
+.. ################################################################################
+
 
 
 
