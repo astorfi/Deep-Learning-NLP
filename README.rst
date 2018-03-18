@@ -67,6 +67,7 @@ This chapter is associated with the papers published in NLP using deep learning.
 Data Representation
 =========================
 
+-----------------------
 One-hot representation
 -----------------------
 * `Character-level convolutional networks for text classification`_: Promising results by the use of one-hot encoding
