@@ -579,7 +579,7 @@ Sentiment Analysis
   .. }
 
 * **Sentiment analysis: Capturing favorability using natural language processing** :
-A sentiment analysis approach to extract sentiments associated with polarities of positive or negative for specific subjects from a document.
+  A sentiment analysis approach to extract sentiments associated with polarities of positive or negative for specific subjects from a document.
   [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
 
   .. image:: _img/mainpage/progress-overall-80.png
@@ -596,7 +596,7 @@ A sentiment analysis approach to extract sentiments associated with polarities o
 
 
 * **Document-level sentiment classification: An empirical comparison between SVM and ANN** :
-A comparison study. [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
+  A comparison study. [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
 
   .. image:: _img/mainpage/progress-overall-60.png
 
