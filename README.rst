@@ -564,7 +564,7 @@ Sentiment Analysis
 .. ################################################################################
 .. For continuous lines, the lines must be start from the same locations.
 * **Domain adaptation for large-scale sentiment classification: A deep learning approach** :
-A deep learning approach which learns to extract a meaningful representation for each online review.
+  A deep learning approach which learns to extract a meaningful representation for each online review.
   [`Paper link <http://www.iro.umontreal.ca/~lisa/bib/pub_subject/language/pointeurs/ICML2011_sentiment.pdf>`_]
 
   .. image:: _img/mainpage/progress-overall-80.png
