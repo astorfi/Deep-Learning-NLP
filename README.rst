@@ -613,12 +613,14 @@ Sentiment Analysis
   .. }
 
 * **Learning semantic representations of users and products for document level sentiment classification** :
+  Incorporating of user- and product- level information into a neural network approach for document level sentiment classification.
   [`Paper <http://www.aclweb.org/anthology/P15-1098>`_]
 
   .. image:: _img/mainpage/progress-overall-40.png
 
 
 * **Document modeling with gated recurrent neural network for sentiment classification** :
+  A a neural network model has been proposed to learn vector-based document representation.
   [`Paper <http://www.aclweb.org/anthology/D15-1167>`_,
   `Implementation <https://github.com/NUSTM/DLSC>`_]
 
@@ -626,29 +628,34 @@ Sentiment Analysis
 
 
 * **Semi-supervised recursive autoencoders for predicting sentiment distributions** :
+  A novel machine learning framework based on recursive autoencoders for sentence-level prediction.
   [`Paper <https://dl.acm.org/citation.cfm?id=2145450>`_]
 
   .. image:: _img/mainpage/progress-overall-80.png
 
 
 * **A convolutional neural network for modelling sentences** :
+  A convolutional architecture adopted for the semantic modelling of sentences.
   [`Paper <https://arxiv.org/abs/1404.2188>`_]
 
   .. image:: _img/mainpage/progress-overall-80.png
 
 
 * **Recursive deep models for semantic compositionality over a sentiment treebank** :
+  Recursive Neural Tensor Network for sentiment analysis.
   [`Paper <http://www.aclweb.org/anthology/D13-1170>`_]
 
   .. image:: _img/mainpage/progress-overall-60.png
 
 
 * **Adaptive recursive neural network for target-dependent twitter sentiment classification** :
+  AdaRNN adaptively propagates the sentiments of words to target depending on the context and syntactic relationships.
   [`Paper <http://www.aclweb.org/anthology/P14-2009>`_]
 
   .. image:: _img/mainpage/progress-overall-20.png
 
 * **Aspect extraction for opinion mining with a deep convolutional neural network** :
+  A deep learning approach to aspect extraction in opinion mining.
   [`Paper <https://www.sciencedirect.com/science/article/pii/S0950705116301721>`_]
 
   .. image:: _img/mainpage/progress-overall-20.png
