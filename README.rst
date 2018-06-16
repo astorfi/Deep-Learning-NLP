@@ -557,6 +557,108 @@ Text classification
 
 .. ################################################################################
 
+--------------------
+Sentiment Analysis
+--------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Domain adaptation for large-scale sentiment classification: A deep learning approach** :
+A deep learning approach which learns to extract a meaningful representation for each online review.
+  [`Paper link <http://www.iro.umontreal.ca/~lisa/bib/pub_subject/language/pointeurs/ICML2011_sentiment.pdf>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+  .. @inproceedings{glorot2011domain,
+  ..   title={Domain adaptation for large-scale sentiment classification: A deep learning approach},
+  ..   author={Glorot, Xavier and Bordes, Antoine and Bengio, Yoshua},
+  ..   booktitle={Proceedings of the 28th international conference on machine learning (ICML-11)},
+  ..   pages={513--520},
+  ..   year={2011}
+  .. }
+
+* **Sentiment analysis: Capturing favorability using natural language processing** :
+A sentiment analysis approach to extract sentiments associated with polarities of positive or negative for specific subjects from a document.
+  [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+  .. @inproceedings{nasukawa2003sentiment,
+  ..   title={Sentiment analysis: Capturing favorability using natural language processing},
+  ..   author={Nasukawa, Tetsuya and Yi, Jeonghee},
+  ..   booktitle={Proceedings of the 2nd international conference on Knowledge capture},
+  ..   pages={70--77},
+  ..   year={2003},
+  ..   organization={ACM}
+  .. }
+
+
+* **Document-level sentiment classification: An empirical comparison between SVM and ANN** :
+A comparison study.
+  [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+
+  .. @article{moraes2013document,
+  ..   title={Document-level sentiment classification: An empirical comparison between SVM and ANN},
+  ..   author={Moraes, Rodrigo and Valiati, Jo{\~a}O Francisco and Neto, Wilson P Gavi{\~a}O},
+  ..   journal={Expert Systems with Applications},
+  ..   volume={40},
+  ..   number={2},
+  ..   pages={621--633},
+  ..   year={2013},
+  ..   publisher={Elsevier}
+  .. }
+
+* **Learning semantic representations of users and products for document level sentiment classification** :
+  [`Paper <http://www.aclweb.org/anthology/P15-1098>`_]
+
+  .. image:: _img/mainpage/progress-overall-40.png
+
+
+* **Document modeling with gated recurrent neural network for sentiment classification** :
+  [`Paper <http://www.aclweb.org/anthology/D15-1167>`_,
+  `Implementation <https://github.com/NUSTM/DLSC>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+
+* **Semi-supervised recursive autoencoders for predicting sentiment distributions** :
+  [`Paper <https://dl.acm.org/citation.cfm?id=2145450>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+* **A convolutional neural network for modelling sentences** :
+  [`Paper <https://arxiv.org/abs/1404.2188>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+* **Recursive deep models for semantic compositionality over a sentiment treebank** :
+  [`Paper <http://www.aclweb.org/anthology/D13-1170>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+
+* **Adaptive recursive neural network for target-dependent twitter sentiment classification** :
+  [`Paper <http://www.aclweb.org/anthology/P14-2009>`_]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+* **Aspect extraction for opinion mining with a deep convolutional neural network** :
+  [`Paper <https://www.sciencedirect.com/science/article/pii/S0950705116301721>`_]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+
+
+
+
+
 ============
 Contributing
 ============
