@@ -596,8 +596,7 @@ A sentiment analysis approach to extract sentiments associated with polarities o
 
 
 * **Document-level sentiment classification: An empirical comparison between SVM and ANN** :
-A comparison study.
-  [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
+A comparison study. [`Paper link <https://dl.acm.org/citation.cfm?id=945658>`_]
 
   .. image:: _img/mainpage/progress-overall-60.png
 
