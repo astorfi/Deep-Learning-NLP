@@ -71,8 +71,6 @@ Data Representation
 One-hot representation
 -----------------------
 
-.. ################################################################################
-
 .. For continuous lines, the lines must be start from the same locations.
 * **Character-level convolutional networks for text classification** :
   Promising results by the use of one-hot encoding possibly due to their character-level information.
@@ -81,7 +79,7 @@ One-hot representation
   `TensorFlow implementation <https://github.com/mhjabreel/CharCNN>`_ ,
   `Pytorch implementation <https://github.com/srviest/char-cnn-pytorch>`_]
 
-    .. image:: _img/mainpage/progress-overall-80.png
+  .. image:: _img/mainpage/progress-overall-80.png
 
 .. @inproceedings{zhang2015character,
 ..   title={Character-level convolutional networks for text classification},
@@ -358,13 +356,13 @@ Parsing
 
 * **Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations** :
   A simple and effective scheme for dependency parsing which is based on bidirectional-LSTMs.
-  [`Paper <https://arxiv.org/abs/1603.04351`_]
+  [`Paper <https://arxiv.org/abs/1603.04351>`_]
 
   .. image:: _img/mainpage/progress-overall-60.png
 
 * **Transition-Based Dependency Parsing with Stack Long Short-Term Memory** :
   A technique for learning representations of parser states in transition-based dependency parsers.
-  [`Paper <https://arxiv.org/abs/1505.08075`_]
+  [`Paper <https://arxiv.org/abs/1505.08075>`_]
 
   .. image:: _img/mainpage/progress-overall-80.png
 
