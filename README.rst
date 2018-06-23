@@ -385,7 +385,6 @@ Named Entity Recognition
 -------------------------
 
 
-
 * **Neural Architectures for Named Entity Recognition** :
   Bidirectional LSTMs and conditional random fields for NER.
   [`Paper <https://arxiv.org/abs/1603.01360>`_]
@@ -404,6 +403,16 @@ Named Entity Recognition
 
   .. image:: _img/mainpage/progress-overall-80.png
 
+
+-------------------------
+Semantic Role Labeling
+-------------------------
+
+* **End-to-end learning of semantic role labeling using recurrent neural networks** :
+  The use of deep bi-directional recurrent network as an end-to-end system for SRL.
+  [`Paper <http://www.aclweb.org/anthology/P15-1109>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
 
 
 --------------------
