@@ -380,6 +380,30 @@ Parsing
   .. image:: _img/mainpage/progress-overall-20.png
 
 
+-------------------------
+Named Entity Recognition
+-------------------------
+
+
+
+* **Neural Architectures for Named Entity Recognition** :
+  Bidirectional LSTMs and conditional random fields for NER.
+  [`Paper <https://arxiv.org/abs/1603.01360>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+* **Boosting named entity recognition with neural character embeddings** :
+  A language-independent NER system that uses automatically learned features.
+  [`Paper <https://arxiv.org/abs/1505.05008>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+* **Named Entity Recognition with Bidirectional LSTM-CNNs** :
+  A novel neural network architecture that automatically detects word- and character-level features.
+  [`Paper <https://arxiv.org/abs/1511.08308>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
 
 
 --------------------
