@@ -340,6 +340,49 @@ Part-Of-Speech Tagging
 
 
 
+-----------------------
+Parsing
+-----------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+
+
+* **A fast and accurate dependency parser using neural networks** :
+  A novel way of learning a neural network classifier for use in a greedy, transition-based dependency parser.
+  [`Paper <http://www.aclweb.org/anthology/D14-1082>`_,
+  `Code Implementation 1 <https://github.com/akjindal53244/dependency_parsing_tf>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+
+* **Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations** :
+  A simple and effective scheme for dependency parsing which is based on bidirectional-LSTMs.
+  [`Paper <https://arxiv.org/abs/1603.04351`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+* **Transition-Based Dependency Parsing with Stack Long Short-Term Memory** :
+  A technique for learning representations of parser states in transition-based dependency parsers.
+  [`Paper <https://arxiv.org/abs/1505.08075`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+* **Deep Biaffine Attention for Neural Dependency Parsing** :
+  Using neural attention in a simple graph-based dependency parser.
+  [`Paper <https://arxiv.org/abs/1611.01734>`_]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+* **Joint RNN-Based Greedy Parsing and Word Composition** :
+  A greedy parser based on neural networks, which leverages a new compositional sub-tree representation.
+  [`Paper <https://arxiv.org/abs/1412.7028>`_]
+
+  .. image:: _img/mainpage/progress-overall-20.png
+
+
+
 
 --------------------
 Text classification
