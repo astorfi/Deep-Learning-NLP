@@ -308,6 +308,39 @@ Character-Level Embedding
 Applications
 ====================
 
+-----------------------
+Part-Of-Speech Tagging
+-----------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Learning Character-level Representations for Part-of-Speech Tagging** :
+  A deep neural network (DNN) architecture that joins word-level and character-level representations to perform POS taggin
+  [`Paper <http://proceedings.mlr.press/v32/santos14.pdf>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+
+* **Bidirectional LSTM-CRF Models for Sequence Tagging** :
+  A variety of neural network based models haves been proposed for sequence tagging task.
+  [`Paper <https://arxiv.org/abs/1508.01991>`_,
+  `Code Implementation 1 <https://github.com/Hironsan/anago>`_,
+  `Code Implementation 2 <https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf>`_]
+
+
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+* **Globally Normalized Transition-Based Neural Networks** :
+  Transition-based neural network model for part-of-speech tagging.
+  [`Paper <https://arxiv.org/abs/1603.06042>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+
+
+
 --------------------
 Text classification
 --------------------
