@@ -843,7 +843,7 @@ Machine Translation
   `Accelerating Deep Learning Research with the Tensor2Tensor Library  <https://ai.googleblog.com/2017/06/accelerating-deep-learning-research.html>`_,
   `Transformer: A Novel Neural Network Architecture for Language Understanding  <https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html>`_]
 
-    .. image:: _img/mainpage/progress-overall-100.png
+  .. image:: _img/mainpage/progress-overall-100.png
 
 
 --------------------
@@ -861,6 +861,8 @@ Summarization
   `Blog Post <https://medium.com/@supersonic_ss/paper-a-neural-attention-model-for-abstractive-sentence-summarization-a6fa9b33f09b>`_,
   `Paper notes <https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/neural-attention-model-for-abstractive-sentence-summarization.md>`_,]
 
+  .. image:: _img/mainpage/progress-overall-100.png
+
 * **Get To The Point: Summarization with Pointer-Generator Networks** :
   A novel architecture that augments the standard sequence-to-sequence attentional model by using a hybrid pointer-generator network that may copy words from the source text via pointing and using coverage to keep track of what has been summarized.
   [`Paper <https://arxiv.org/abs/1704.04368>`_,
@@ -868,8 +870,26 @@ Summarization
   `Video" <https://www.coursera.org/lecture/language-processing/get-to-the-point-summarization-with-pointer-generator-networks-RhxPO>`_,
   `Blog Post <http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html>`_]
 
+  .. image:: _img/mainpage/progress-overall-100.png
 
+* **Abstractive Sentence Summarization with Attentive Recurrent Neural Networks** :
+  A  conditional  recurrent  neural  network (RNN) based on convolutional attention-based encoder which generates a summary of an input sentence.
+  [`Paper <http://www.aclweb.org/anthology/N16-1012>`_]
 
+  .. image:: _img/mainpage/progress-overall-60.png
+
+* **Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond** :
+  Abstractive text summarization using Attentional Encoder-Decoder Recurrent Neural Networks
+  [`Paper <https://arxiv.org/abs/1602.06023>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+* **A Deep Reinforced Model for Abstractive Summarization** :
+  A neural network model with a novel intra-attention that attends over the input and continuously generated output separately,
+   and a new training method that combines standard supervised word prediction and reinforcement learning (RL).
+  [`Paper <https://arxiv.org/abs/1705.04304>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
 
 
 ..   * ``#`` with overline, for parts
