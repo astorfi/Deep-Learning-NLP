@@ -867,7 +867,7 @@ Summarization
   A novel architecture that augments the standard sequence-to-sequence attentional model by using a hybrid pointer-generator network that may copy words from the source text via pointing and using coverage to keep track of what has been summarized.
   [`Paper <https://arxiv.org/abs/1704.04368>`_,
   `Code <https://github.com/abisee/pointer-generator>`_,
-  `Video" <https://www.coursera.org/lecture/language-processing/get-to-the-point-summarization-with-pointer-generator-networks-RhxPO>`_,
+  `Video <https://www.coursera.org/lecture/language-processing/get-to-the-point-summarization-with-pointer-generator-networks-RhxPO>`_,
   `Blog Post <http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html>`_]
 
   .. image:: _img/mainpage/progress-overall-100.png
