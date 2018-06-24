@@ -846,18 +846,50 @@ Machine Translation
     .. image:: _img/mainpage/progress-overall-100.png
 
 
+--------------------
+Summarization
+--------------------
 
-************
-Heading 1
-************
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
 
-====================
-Heading 2
-====================
+* **A Neural Attention Model for Abstractive Sentence Summarization** :
+  A fully data-driven approach to abstractive sentence summarization based on a local attention model.
+  [`Paper <https://arxiv.org/abs/1509.00685>`_,
+  `Code <https://github.com/facebookarchive/NAMAS>`_,
+  `A Read on "A Neural Attention Model for Abstractive Sentence Summarization" <http://thegrandjanitor.com/2018/05/09/a-read-on-a-neural-attention-model-for-abstractive-sentence-summarization-by-a-m-rush-sumit-chopra-and-jason-weston/>`_,
+  `Blog Post <https://medium.com/@supersonic_ss/paper-a-neural-attention-model-for-abstractive-sentence-summarization-a6fa9b33f09b>`_,
+  `Paper notes <https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/neural-attention-model-for-abstractive-sentence-summarization.md>`_,]
 
------------------------
-Heading 3
------------------------
+* **Get To The Point: Summarization with Pointer-Generator Networks** :
+  A novel architecture that augments the standard sequence-to-sequence attentional model by using a hybrid pointer-generator network that may copy words from the source text via pointing and using coverage to keep track of what has been summarized.
+  [`Paper <https://arxiv.org/abs/1704.04368>`_,
+  `Code <https://github.com/abisee/pointer-generator>`_,
+  `Video" <https://www.coursera.org/lecture/language-processing/get-to-the-point-summarization-with-pointer-generator-networks-RhxPO>`_,
+  `Blog Post <http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html>`_]
+
+
+
+
+
+..   * ``#`` with overline, for parts
+..   * ``*`` with overline, for chapters
+..   * ``=``, for sections
+..   * ``-``, for subsections
+..   * ``^``, for subsubsections
+..   * ``"``, for paragraphs
+..
+.. ************
+.. Heading 1
+.. ************
+..
+.. ====================
+.. Heading 2
+.. ====================
+..
+.. -----------------------
+.. Heading 3
+.. -----------------------
 
 
 ============
