@@ -794,7 +794,7 @@ Machine Translation
 * **Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** :
   This work presents the design and implementation of GNMT, a production NMT system at Google.
   [`Paper <https://arxiv.org/pdf/1609.08144.pdf>`_,
-  `Code <https://github.com/tensorflow/nmt`_]
+  `Code <https://github.com/tensorflow/nmt>`_]
 
   .. image:: _img/mainpage/progress-overall-100.png
 
