@@ -768,8 +768,78 @@ Sentiment Analysis
   .. image:: _img/mainpage/progress-overall-20.png
 
 
+--------------------
+Machine Translation
+--------------------
+
+.. ################################################################################
+.. For continuous lines, the lines must be start from the same locations.
+* **Learning phrase representations using RNN encoder-decoder for statistical machine translation** :
+  The proposed RNN Encoder–Decoder with a novel hidden unit has been empirically evaluated on the task of machine translation.
+  [`Paper <https://arxiv.org/abs/1406.1078>`_,
+  `Code <https://github.com/pytorch/tutorials/blob/master/intermediate_source/seq2seq_translation_tutorial.py>`_,
+  `Blog post <https://medium.com/@gautam.karmakar/learning-phrase-representation-using-rnn-encoder-decoder-for-machine-translation-9171cd6a6574>`_]
 
 
+  .. image:: _img/mainpage/progress-overall-100.png
+
+* **Sequence to Sequence Learning with Neural Networks** :
+  A showcase of NMT system is comparable to the traditional pipeline by Google.
+  [`Paper <http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural>`_,
+  `Code <https://github.com/farizrahman4u/seq2seq>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+
+* **Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** :
+  This work presents the design and implementation of GNMT, a production NMT system at Google.
+  [`Paper <https://arxiv.org/pdf/1609.08144.pdf>`_,
+  `Code <https://github.com/tensorflow/nmt`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+
+* **Neural Machine Translation by Jointly Learning to Align and Translate** :
+  An extension to the encoder–decoder model which learns to align and translate jointly by attention mechanism.
+  [`Paper <https://arxiv.org/abs/1409.0473>`_]
+
+  .. image:: _img/mainpage/progress-overall-100.png
+
+
+* **Effective Approaches to Attention-based Neural Machine Translation** :
+  Improvement of attention mechanism for NMT.
+  [`Paper <https://arxiv.org/abs/1508.04025>`_,
+  `Code <https://github.com/mohamedkeid/Neural-Machine-Translation>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+* **On the Properties of Neural Machine Translation: Encoder-Decoder Approaches** :
+  Analyzing the properties of the neural machine translation using two models; RNN Encoder--Decoder and a newly proposed gated recursive convolutional neural network.
+  [`Paper <https://arxiv.org/abs/1409.12595>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+
+* **On Using Very Large Target Vocabulary for Neural Machine Translation** :
+  A method that allows to use a very large target vocabulary without increasing training complexity.
+  [`Paper <https://arxiv.org/abs/1412.2007>`_]
+
+  .. image:: _img/mainpage/progress-overall-40.png
+
+
+
+
+************
+Heading 1
+************
+
+====================
+Heading 2
+====================
+
+-----------------------
+Heading 3
+-----------------------
 
 
 ============
