@@ -981,7 +981,7 @@ Tutorials
 ************
 
 * **Understanding Natural Language with Deep Neural Networks Using Torch** by NVIDIA:
-[`Link <https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/>`_]
+  [`Link <https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/>`_]
 
 * **Deep Learning for NLP with Pytorch** by Pytorch:
   [`Link <https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html>`_]
