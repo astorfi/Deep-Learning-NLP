@@ -885,8 +885,7 @@ Summarization
   .. image:: _img/mainpage/progress-overall-60.png
 
 * **A Deep Reinforced Model for Abstractive Summarization** :
-  A neural network model with a novel intra-attention that attends over the input and continuously generated output separately,
-   and a new training method that combines standard supervised word prediction and reinforcement learning (RL).
+  A neural network model with a novel intra-attention that attends over the input and continuously generated output separately, and a new training method that combines standard supervised word prediction and reinforcement learning (RL).
   [`Paper <https://arxiv.org/abs/1705.04304>`_]
 
   .. image:: _img/mainpage/progress-overall-60.png
