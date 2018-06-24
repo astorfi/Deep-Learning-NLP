@@ -910,6 +910,79 @@ Summarization
 .. Heading 3
 .. -----------------------
 
+************
+Courses
+************
+
+* **Natural Language Processing with Deep Learning** by Stanford :
+  [`Link <http://web.stanford.edu/class/cs224n/>`_]
+
+* **Deep Natural Language Processing** by the University of Oxford:
+  [`Link <https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/>`_]
+
+* **Natural Language Processing with Deep Learning in Python** by Udemy:
+  [`Link <https://www.udemy.com/natural-language-processing-with-deep-learning-in-python/?siteID=QhjctqYUCD0-KJsvUG2M8PW2kOmJ0nwFPQ&LSNPUBID=QhjctqYUCD0>`_]
+
+* **Natural Language Processing with Deep Learning** by Coursera:
+  [`Link <https://www.coursera.org/learn/language-processing>`_]
+
+
+
+
+************
+Books
+************
+
+* **Speech and Language Processing** by Dan Jurafsky and James H. Martin at stanford:
+  [`Link <https://web.stanford.edu/~jurafsky/slp3/>`_]
+
+************
+Blogs
+************
+
+* **Natural Language Processing** by Sebastian Ruder:
+  [`Link <http://blog.aylien.com/12-of-the-best-free-natural-language-processing-and-machine-learning-educational-resources/>`_]
+
+* **Probably Approximately a Scientific Blog** by Vered Schwartz:
+  [`Link <http://veredshwartz.blogspot.com/>`_]
+
+* **NLP news** by Sebastian Ruder:
+  [`Link <http://newsletter.ruder.io/>`_]
+
+* **Understanding Convolutional Neural Networks for NLP** by Denny Britz:
+  [`Link <http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/>`_]
+
+* **Deep Learning, NLP, and Representations** by Matthew Honnibal:
+  [`Link <http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/>`_]
+
+* **Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models** by Sebastian Ruder:
+  [`Link <https://explosion.ai/blog/deep-learning-formula-nlp>`_]
+
+* **Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models** by Sebastian Ruder:
+  [`Link <https://explosion.ai/blog/deep-learning-formula-nlp>`_]
+
+
+************
+Tutorials
+************
+
+* **Understanding Natural Language with Deep Neural Networks Using Torch** by NVIDIA:
+[`Link <https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/>`_]
+
+* **Deep Learning for NLP with Pytorch** by Pytorch:
+  [`Link <https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html>`_]
+
+
+
+************
+Datasets
+************
+
+
+************
+Courses
+************
+
 
 ============
 Contributing
