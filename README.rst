@@ -927,8 +927,6 @@ Courses
   [`Link <https://www.coursera.org/learn/language-processing>`_]
 
 
-
-
 ************
 Books
 ************
@@ -936,18 +934,19 @@ Books
 * **Speech and Language Processing** by Dan Jurafsky and James H. Martin at stanford:
   [`Link <https://web.stanford.edu/~jurafsky/slp3/>`_]
 
+* **Neural Network Methods for Natural Language Processing** by Yoav Goldberg:
+  [`Link <https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037>`_]
+
+* **Deep Learning with Text: Natural Language Processing (Almost) from Scratch with Python and spaCy** by Patrick Harrison, Matthew Honnibal:
+  [`Link <https://www.amazon.com/Deep-Learning-Text-Approach-Processing/dp/1491984414>`_]
+
+* **Natural Language Processing with Python** by Steven Bird, Ewan Klein, and Edward Loper:
+  [`Link <http://www.nltk.org/book/>`_]
+
+
 ************
 Blogs
 ************
-
-* **Natural Language Processing** by Sebastian Ruder:
-  [`Link <http://blog.aylien.com/12-of-the-best-free-natural-language-processing-and-machine-learning-educational-resources/>`_]
-
-* **Probably Approximately a Scientific Blog** by Vered Schwartz:
-  [`Link <http://veredshwartz.blogspot.com/>`_]
-
-* **NLP news** by Sebastian Ruder:
-  [`Link <http://newsletter.ruder.io/>`_]
 
 * **Understanding Convolutional Neural Networks for NLP** by Denny Britz:
   [`Link <http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/>`_]
@@ -961,6 +960,21 @@ Blogs
 * **Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models** by Sebastian Ruder:
   [`Link <https://explosion.ai/blog/deep-learning-formula-nlp>`_]
 
+* **Natural Language Processing** by Sebastian Ruder:
+  [`Link <http://blog.aylien.com/12-of-the-best-free-natural-language-processing-and-machine-learning-educational-resources/>`_]
+
+* **Probably Approximately a Scientific Blog** by Vered Schwartz:
+  [`Link <http://veredshwartz.blogspot.com/>`_]
+
+* **NLP news** by Sebastian Ruder:
+  [`Link <http://newsletter.ruder.io/>`_]
+
+* **Deep Learning for Natural Language Processing (NLP): Advancements & Trends**:
+  [`Link <https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/>`_]
+
+* **Neural Language Modeling From Scratch**:
+  [`Link <http://ofir.io/Neural-Language-Modeling-From-Scratch/?a=1>`_]
+
 
 ************
 Tutorials
@@ -972,15 +986,13 @@ Tutorials
 * **Deep Learning for NLP with Pytorch** by Pytorch:
   [`Link <https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html>`_]
 
+* **Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks** by Jon Krohn:
+  [`Link <https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f>`_]
+
 
 
 ************
 Datasets
-************
-
-
-************
-Courses
 ************
 
 
