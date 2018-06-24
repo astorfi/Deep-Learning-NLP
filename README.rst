@@ -826,6 +826,24 @@ Machine Translation
 
   .. image:: _img/mainpage/progress-overall-40.png
 
+* **Convolutional sequence to sequence learning** :
+  An architecture based entirely on convolutional neural networks.
+  [`Paper <https://arxiv.org/abs/1705.03122>`_,
+  `Code[Torch] <https://github.com/facebookresearch/fairseq>`_,
+  `Code[Pytorch] <https://github.com/pytorch/fairseq>`_,
+  `Post <https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+
+* **Attention Is All You Need** :
+  The Transformer: a novel neural network architecture based on a self-attention mechanism.
+  [`Paper <https://arxiv.org/abs/1706.03762>`_,
+  `Code <https://github.com/tensorflow/tensor2tensor>`_,
+  `Accelerating Deep Learning Research with the Tensor2Tensor Library  <https://ai.googleblog.com/2017/06/accelerating-deep-learning-research.html>`_,
+  `Transformer: A Novel Neural Network Architecture for Language Understanding  <https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html>`_]
+
+    .. image:: _img/mainpage/progress-overall-100.png
 
 
 
