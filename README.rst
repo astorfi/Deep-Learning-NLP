@@ -891,6 +891,15 @@ Summarization
   .. image:: _img/mainpage/progress-overall-60.png
 
 
+--------------------
+Recommender systems
+--------------------
+
+-----------------------
+Conversational systems
+-----------------------
+
+
 ..   * ``#`` with overline, for parts
 ..   * ``*`` with overline, for chapters
 ..   * ``=``, for sections
@@ -1027,14 +1036,38 @@ Text classification
 * **The wikitext long term dependency language modeling dataset**: A collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. :
   [`Link <https://einstein.ai/research/the-wikitext-long-term-dependency-language-modeling-dataset>`_]
 
+=======================
+Question Answering
+=======================
+
 
 =====================
 Sentiment Analysis
 =====================
 
+* **Multi-Domain Sentiment Dataset** TThe Multi-Domain Sentiment Dataset contains product reviews taken from Amazon.com from many product types (domains):
+  [`Link <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_]
+
+* **Stanford Sentiment Treebank Dataset** The Stanford Sentiment Treebank is the first corpus with fully labeled parse trees that allows for a complete analysis of the compositional effects of sentiment in language:
+  [`Link <https://nlp.stanford.edu/sentiment/>`_]
+
+* **Large Movie Review Dataset**: This is a dataset for binary sentiment classification:
+  [`Link <http://ai.stanford.edu/~amaas/data/sentiment/>`_]
+
+
 =====================
 Machine Translation
 =====================
+
+* **20 newsgroups** The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups:
+  [`Link <http://qwone.com/~jason/20Newsgroups/>`_]
+
+* **Broadcast News** The 1996 Broadcast News Speech Corpus contains a total of 104 hours of broadcasts from ABC, CNN and CSPAN television networks and NPR and PRI radio networks with corresponding transcripts:
+  [`Link <https://catalog.ldc.upenn.edu/LDC97S44>`_]
+
+* **The wikitext long term dependency language modeling dataset**: A collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. :
+  [`Link <https://einstein.ai/research/the-wikitext-long-term-dependency-language-modeling-dataset>`_]
+
 
 =====================
 Summarization
