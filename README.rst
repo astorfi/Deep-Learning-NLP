@@ -998,11 +998,47 @@ Tutorials
   [`Link <https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f>`_]
 
 
-
 ************
 Datasets
 ************
 
+
+
+* **1 Billion Word Language Model Benchmark**: The purpose of the project is to make available a standard training and test setup for language modeling experiments:
+  [`Link <http://www.statmt.org/lm-benchmark/>`_]
+
+* **Common Crawl**: The Common Crawl corpus contains petabytes of data collected over the last 7 years. It contains raw web page data, extracted metadata and text extractions:
+  [`Link <http://commoncrawl.org/the-data/get-started/>`_]
+
+* **Yelp Open Dataset**: A subset of Yelp's businesses, reviews, and user data for use in personal, educational, and academic purposes:
+  [`Link <https://www.yelp.com/dataset>`_]
+
+
+=====================
+Text classification
+=====================
+
+* **20 newsgroups**:
+  [`Link <http://qwone.com/~jason/20Newsgroups/>`_]
+
+* **Broadcast News**:
+  [`Link <https://catalog.ldc.upenn.edu/LDC97S44>`_]
+
+* **The wikitext long term dependency language modeling dataset**: A collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. :
+  [`Link <https://einstein.ai/research/the-wikitext-long-term-dependency-language-modeling-dataset>`_]
+
+
+=====================
+Sentiment Analysis
+=====================
+
+=====================
+Machine Translation
+=====================
+
+=====================
+Summarization
+=====================
 
 ************
 Contributing
