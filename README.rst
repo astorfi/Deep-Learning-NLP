@@ -916,7 +916,7 @@ Courses
 
 .. image:: _img/mainpage/online.png
 
-* **`Natural Language Processing with Deep Learning`_** by Stanford :
+* `Natural Language Processing with Deep Learning`_ by Stanford :
 .. _Natural Language Processing with Deep Learning: http://web.stanford.edu/class/cs224n/
 
 * **Deep Natural Language Processing** by the University of Oxford:
