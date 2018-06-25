@@ -952,6 +952,8 @@ Books
 Blogs
 ************
 
+.. image:: _img/mainpage/Blogger_icon.png
+
 * **Understanding Convolutional Neural Networks for NLP** by Denny Britz:
   [`Link <http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/>`_]
 
