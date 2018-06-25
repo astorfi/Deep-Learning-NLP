@@ -914,6 +914,8 @@ Summarization
 Courses
 ************
 
+.. image:: _img/mainpage/online.png
+
 * **Natural Language Processing with Deep Learning** by Stanford :
   [`Link <http://web.stanford.edu/class/cs224n/>`_]
 
@@ -930,6 +932,8 @@ Courses
 ************
 Books
 ************
+
+.. image:: _img/mainpage/books.jpg
 
 * **Speech and Language Processing** by Dan Jurafsky and James H. Martin at stanford:
   [`Link <https://web.stanford.edu/~jurafsky/slp3/>`_]
@@ -979,6 +983,8 @@ Blogs
 ************
 Tutorials
 ************
+
+.. image:: _img/mainpage/tutorial.png
 
 * **Understanding Natural Language with Deep Neural Networks Using Torch** by NVIDIA:
   [`Link <https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/>`_]
