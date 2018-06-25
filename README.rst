@@ -1018,10 +1018,10 @@ Datasets
 Text classification
 =====================
 
-* **20 newsgroups**:
+* **20 newsgroups** The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups:
   [`Link <http://qwone.com/~jason/20Newsgroups/>`_]
 
-* **Broadcast News**:
+* **Broadcast News** The 1996 Broadcast News Speech Corpus contains a total of 104 hours of broadcasts from ABC, CNN and CSPAN television networks and NPR and PRI radio networks with corresponding transcripts:
   [`Link <https://catalog.ldc.upenn.edu/LDC97S44>`_]
 
 * **The wikitext long term dependency language modeling dataset**: A collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. :
