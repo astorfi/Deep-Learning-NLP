@@ -1,4 +1,4 @@
-.. image:: _img/mainpage/logo.png
+.. image:: _img/mainpage/logo.gif
 
 ###################################################
 Deep Learning for Natural Language Processing
