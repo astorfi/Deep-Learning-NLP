@@ -33,9 +33,9 @@ Motivation
 
 There are different motivations for this open source project.
 
---------------------
-Why Deep Learning?
---------------------
+.. --------------------
+.. Why Deep Learning?
+.. --------------------
 
 ------------------------------------------------------------
 What's the point of this open source project?
@@ -53,13 +53,15 @@ Even if someone doesn't know what to look for, in the beginning, the general res
 been provided.
 
 
-================================================
-How to make the most of this effort
-================================================
+.. ================================================
+.. How to make the most of this effort
+.. ================================================
 
 ************
 Papers
 ************
+
+.. image:: _img/mainpage/article.png
 
 This chapter is associated with the papers published in NLP using deep learning.
 
