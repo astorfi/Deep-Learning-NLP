@@ -1,6 +1,11 @@
 
-docs/* linguist-documentation
-_img/* linguist-vendored
+# docs/* linguist-documentation
+# _img/* linguist-vendored
 
-*.ipynb linguist-language=Python
+docs/source/* linguist-documentation
+docs/source/* linguist-vendored
+docs/source/* linguist-language=Python
+
+
+# *.ipynb linguist-language=Python
 
