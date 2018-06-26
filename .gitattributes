@@ -2,9 +2,9 @@
 # docs/* linguist-documentation
 # _img/* linguist-vendored
 
-docs/source/* linguist-documentation
-docs/source/* linguist-vendored
-docs/source/* linguist-language=Python
+docs/source/conf.py linguist-documentation
+docs/source/conf.py linguist-vendored
+docs/source/conf.py linguist-language=Python
 
 
 # *.ipynb linguist-language=Python
