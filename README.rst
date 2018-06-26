@@ -208,7 +208,7 @@ Word-Level Embedding
 .. For continuous lines, the lines must be start from the same locations.
 * **Skip-Thought Vectors** :
   Skip-thought model applies word2vec at the sentence-level.
-  [`http://papers.nips.cc/paper/5950-skip-thought-vectors>`_ ,
+  [`Paper <http://papers.nips.cc/paper/5950-skip-thought-vectors>`_ ,
   `Code implementation <https://github.com/ryankiros/skip-thoughts>`_,
   `TensorFlow implementation <https://github.com/tensorflow/models/tree/master/research/skip_thoughts>`_]
 
@@ -916,13 +916,6 @@ Question Answering
   .. image:: _img/mainpage/progress-overall-80.png
 
 
---------------------
-Recommender systems
---------------------
-
------------------------
-Conversational systems
------------------------
 
 
 ..   * ``#`` with overline, for parts
