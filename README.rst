@@ -1098,7 +1098,7 @@ Machine Translation
   [`Link <https://www.isi.edu/natural-language/download/hansard/>`_]
 
 * **Europarl: A Parallel Corpus for Statistical Machine Translation** dataset extracted from the proceedings of the European Parliament:
-[`Link <http://www.statmt.org/europarl/>`_]
+  [`Link <http://www.statmt.org/europarl/>`_]
 
 
 =====================
@@ -1106,7 +1106,7 @@ Summarization
 =====================
 
 * **Legal Case Reports Data Set** as a textual corpus of 4000 legal cases for automatic summarization and citation analysis.:
-[`Link <https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports>`_]
+  [`Link <https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports>`_]
 
 ************
 Contributing
