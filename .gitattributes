@@ -2,3 +2,5 @@
 docs/* linguist-documentation
 _img/* linguist-vendored
 
+*.ipynb linguist-language=Python
+
