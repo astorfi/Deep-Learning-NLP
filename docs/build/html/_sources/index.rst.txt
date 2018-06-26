@@ -7,13 +7,13 @@ Welcome to Deep Learning NLP documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Foreword
    
    intro/intro
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Content
    
    content/papers
@@ -24,7 +24,7 @@ Welcome to Deep Learning NLP documentation!
    content/datasets
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Document Credentials
 
    
