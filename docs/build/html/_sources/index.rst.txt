@@ -3,17 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to TensoFlow-World-Resources's documentation!
+Welcome to Deep Learning NLP documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Foreword
    
    intro/intro
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Content
    
    content/papers
@@ -24,7 +24,7 @@ Welcome to TensoFlow-World-Resources's documentation!
    content/datasets
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Document Credentials
 
    
