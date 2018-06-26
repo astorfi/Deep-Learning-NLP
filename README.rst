@@ -13,8 +13,6 @@ Deep Learning for Natural Language Processing
       :target: https://github.com/astorfi/Deep-Learning-NLP/blob/master/LICENSE
 .. image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
       :target: https://github.com/astorfi/Deep-Learning-NLP/graphs/contributors
-.. image:: https://img.shields.io/github/issues/Naereen/StrapDown.js.svg
-      :target: https://github.com/astorfi/Deep-Learning-NLP/issues
 
 
 
