@@ -22,8 +22,8 @@ extensions = [
 ]
 templates_path = ['_templates']
 
-edit_on_github_project = 'astorfi/Deep-Learning-NLP
-'
+edit_on_github_project = 'astorfi/Deep-Learning-NLP'
+
 edit_on_github_branch = 'master'
 
 source_suffix = ['.rst', '.md']
