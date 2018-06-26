@@ -61,7 +61,7 @@ been provided.
 Papers
 ************
 
-.. image:: _img/mainpage/article.png
+.. image:: _img/mainpage/article.jpeg
 
 This chapter is associated with the papers published in NLP using deep learning.
 
