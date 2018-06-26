@@ -890,6 +890,29 @@ Summarization
 
   .. image:: _img/mainpage/progress-overall-60.png
 
+--------------------
+Question Answering
+--------------------
+
+* **Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks** :
+  An argue for the usefulness of a set of proxy tasks that evaluate reading comprehension via question answering.
+  [`Paper <https://arxiv.org/abs/1502.05698>`_]
+
+  .. image:: _img/mainpage/progress-overall-60.png
+
+
+* **Teaching Machines to Read and Comprehend** :
+  addressing the lack of real natural language training data by introducing a novel approach to building a supervised reading comprehension data set.
+  [`Paper <http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
+* **Ask Me Anything Dynamic Memory Networks for Natural Language Processing** :
+  Introducing the dynamic memory network (DMN), a neural network architecture which processes input sequences and questions, forms episodic memories, and generates relevant answers
+  [`Paper <http://proceedings.mlr.press/v48/kumar16.pdf>`_]
+
+  .. image:: _img/mainpage/progress-overall-80.png
+
 
 --------------------
 Recommender systems
@@ -1042,6 +1065,16 @@ Text classification
 Question Answering
 =======================
 
+* **Question Answering Corpus** by Deep Mind and Oxford which is two new corpora of roughly a million news stories with associated queries from the CNN and Daily Mail websites.
+  [`Link <https://github.com/deepmind/rc-data>`_]
+
+* **Stanford Question Answering Dataset (SQuAD)** consisting of questions posed by crowdworkers on a set of Wikipedia articles:
+  [`Link <https://rajpurkar.github.io/SQuAD-explorer/>`_]
+
+* **Amazon question/answer data** contains Question and Answer data from Amazon, totaling around 1.4 million answered questions:
+  [`Link <http://jmcauley.ucsd.edu/data/amazon/qa/>`_]
+
+
 
 =====================
 Sentiment Analysis
@@ -1061,19 +1094,19 @@ Sentiment Analysis
 Machine Translation
 =====================
 
-* **20 newsgroups** The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups:
-  [`Link <http://qwone.com/~jason/20Newsgroups/>`_]
+* **Aligned Hansards of the 36th Parliament of Canada** dataset contains 1.3 million pairs of aligned text chunks:
+  [`Link <https://www.isi.edu/natural-language/download/hansard/>`_]
 
-* **Broadcast News** The 1996 Broadcast News Speech Corpus contains a total of 104 hours of broadcasts from ABC, CNN and CSPAN television networks and NPR and PRI radio networks with corresponding transcripts:
-  [`Link <https://catalog.ldc.upenn.edu/LDC97S44>`_]
-
-* **The wikitext long term dependency language modeling dataset**: A collection of over 100 million tokens extracted from the set of verified Good and Featured articles on Wikipedia. :
-  [`Link <https://einstein.ai/research/the-wikitext-long-term-dependency-language-modeling-dataset>`_]
+* **Europarl: A Parallel Corpus for Statistical Machine Translation** dataset extracted from the proceedings of the European Parliament:
+[`Link <http://www.statmt.org/europarl/>`_]
 
 
 =====================
 Summarization
 =====================
+
+* **Legal Case Reports Data Set** as a textual corpus of 4000 legal cases for automatic summarization and citation analysis.:
+[`Link <https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports>`_]
 
 ************
 Contributing
