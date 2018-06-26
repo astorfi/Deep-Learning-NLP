@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = TensoFlow-World-Resources
+SPHINXPROJ    = Deep_Learning_NLP
 SOURCEDIR     = source
 BUILDDIR      = build
 

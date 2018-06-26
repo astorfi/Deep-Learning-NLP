@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=source
 set BUILDDIR=build
-set SPHINXPROJ=TensoFlow-World-Resources
+set SPHINXPROJ=Deep_Learning_NLP
 
 if "%1" == "" goto help
 
