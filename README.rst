@@ -1,5 +1,13 @@
 .. image:: _img/mainpage/logo.gif
 
+.. image:: _img/mainpage/follow-twitter.gif
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+   :target: https://twitter.com/amirsinatorfi
+
 ###################################################
 Deep Learning for Natural Language Processing
 ###################################################
@@ -14,6 +22,8 @@ Deep Learning for Natural Language Processing
       :target: https://github.com/astorfi/Deep-Learning-NLP/blob/master/LICENSE
 .. image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
       :target: https://github.com/astorfi/Deep-Learning-NLP/graphs/contributors
+.. image:: https://img.shields.io/twitter/follow/amirsinatorfi.svg?label=Follow&style=social
+     :target: https://twitter.com/amirsinatorfi
 
 
 
