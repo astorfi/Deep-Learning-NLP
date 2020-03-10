@@ -30,8 +30,6 @@ For a detailed description of the architecture please read `our paper`_.
 Using the code of this repository is allowed with **proper
 attribution**: Please cite the paper if you find it useful.
 
-Bibtex
-------
 
 .. code:: shell
 
