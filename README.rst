@@ -26,6 +26,24 @@ Deep Learning for Natural Language Processing
      :target: https://twitter.com/amirsinatorfi
 
 
+For a detailed description of the architecture please read `our paper`_.
+Using the code of this repository is allowed with **proper
+attribution**: Please cite the paper if you find it useful.
+
+Bibtex
+------
+
+::
+
+   @article{torfi2020natural,
+  title={Natural Language Processing Advancements By Deep Learning: A Survey},
+  author={Torfi, Amirsina and Shirvani, Rouzbeh A and Keneshloo, Yaser and Tavvaf, Nader and Fox, Edward A},
+  journal={arXiv preprint arXiv:2003.01200},
+  year={2020}
+   }
+
+.. _our paper: https://arxiv.org/abs/2003.01200
+
 
 ##################
 Table of Contents
